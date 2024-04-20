@@ -178,7 +178,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240420_073.JPG" data-lightbox="abc"><img src="20240420_073.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>今回のルート、クリックで地図が開きます。</p>
-<a href="https://maps.app.goo.gl/85uDkGGDXfFUh1jYA" target="_blank"><img src="20240413_000.png" alt="サンプル画像" width="900" /></a>
+<a href="https://maps.app.goo.gl/43Fvv2abyxechrp19" target="_blank"><img src="20240420_000.png" alt="サンプル画像" width="900" /></a>
 
 
 
