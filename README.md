@@ -190,7 +190,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <p>今回のルート、クリックで地図が開きます。</p>
 <a href="https://maps.app.goo.gl/43Fvv2abyxechrp19" target="_blank"><img src="20240420_000.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"><marquee behavior="right">!!! 2024年4月18日、あしかがフラワーパーク　!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="right">!!! 2024年4月19日、あしかがフラワーパーク　!!!</marquee></span></h2>
 <a href="20240420_081.JPG" data-lightbox="abc"><img src="20240420_081.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240420_082.JPG" data-lightbox="abc"><img src="20240420_082.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240420_083.JPG" data-lightbox="abc"><img src="20240420_083.JPG" alt="サンプル画像" width="900" /></a>
